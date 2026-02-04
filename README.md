@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on find a job
+- 🔭 I’m currently working on finding a job
 - 🌱 I’m currently learning PowerBI & Dax
 - 👯 I’m looking to collaborate on Data Representation
 - 🤔 I’m looking for help with Data Exporting
